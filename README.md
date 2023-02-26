@@ -60,8 +60,8 @@ Double check you are using the correct dependancies for your compile.
 
 It is good practice to cross reference required dependancies in the following files:
 
-NAVIGATE TO THE FOLLOWING FOLDER:
 /contrib/gitian-descriptors/deps-win32.yml
+
 /contrib/gitian-descriptors/gitian.yml
 
 EXACT DEPENDANCIES ARE STATED UNDER 'files:' in the following
