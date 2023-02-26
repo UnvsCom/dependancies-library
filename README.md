@@ -6,4 +6,6 @@ The purpose of this collection is to make it easier to source a number of common
 
 Many of these are outdated and are no longer supported, some for good reason. Some may also not be stable to use this present day.
 
+Remember it's good practice to double check Checksums to ensure they are valid releases.
+
 Provided without warranty or guarantee. Use at your own risk.
