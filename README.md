@@ -8,7 +8,7 @@ Many of these are outdated and are no longer supported, some for good reason. So
 
 Remember it's good practice to double check 'Checksums' are valid for each, to ensure they are valid (safe as can be) releases.
 
-<b>Provided without warranty or guarantee. Use at your own risk.</b>
+<b>Provided without warranty or guarantee. USE AT YOUR OWN RISK.</b>
 
 
 ------------
