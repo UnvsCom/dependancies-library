@@ -64,7 +64,7 @@ It is good practice to cross reference required dependancies in the following fi
 
 /contrib/gitian-descriptors/gitian.yml
 
-EXACT DEPENDANCIES ARE STATED UNDER 'files:' in the following
+EXACT DEPENDANCIES ARE STATED UNDER 'files:' Section within these .yml files.
 
 
 
