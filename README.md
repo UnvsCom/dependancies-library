@@ -15,13 +15,21 @@ DEPENDANCIES
 
 
 miniupnpc-1.9.20140401.tgz
+
 qrencode-3.4.3.tar.bz2
+
 db-4.8.30.NC.tar.gz
+
 boost-mingw.patch
+
 boost-mingw-gas-cross-compile-2013-03-03.patch
+
 openssl-1.0.1k.tar.gz
+
 zlib-1.2.8.tar.gz
+
 libpng-1.6.8.tar.gz
+
 boost_1_55_0.tar.bz2
 
 
