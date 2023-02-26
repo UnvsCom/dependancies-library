@@ -31,7 +31,7 @@ boost-mingw.patch
 https://svn.boost.org/trac/boost/raw-attachment/ticket/7262/boost-mingw.patch
 
 boost-mingw-gas-cross-compile-2013-03-03.patch
-'https://svn.boost.org/trac/boost/raw-attachment/ticket/7262/boost-mingw.patch' -O boost-mingw-gas-cross-compile-2013-03-03.patch
+wget 'https://svn.boost.org/trac/boost/raw-attachment/ticket/7262/boost-mingw.patch' -O boost-mingw-gas-cross-compile-2013-03-03.patch
 
 openssl-1.0.1k.tar.gz
 http://www.openssl.org/source/openssl-1.0.1k.tar.gz
