@@ -62,6 +62,11 @@ https://en.bitcoin.it/wiki/List_of_address_prefixes
 Bitvise SSH client:
 https://www.bitvise.com/
 
+Debian 8 Operating System ISO:
+https://cdimage.debian.org/mirror/cdimage/archive/8.5.0-live/amd64/iso-hybrid/debian-live-8.5.0-amd64-standard.iso
+
+
+
 
 
 Notes.
