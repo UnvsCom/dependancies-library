@@ -8,6 +8,8 @@ Many of these are outdated and are no longer supported, some for good reason. So
 
 Remember it's good practice to double check Checksums to ensure they are valid releases.
 
+* These dependancies will be uploaded to this repo in due course, but the widely used direct download links are stated below each.
+
 Provided without warranty or guarantee. Use at your own risk.
 
 
