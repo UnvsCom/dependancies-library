@@ -17,6 +17,8 @@ DEPENDANCIES
 
 * These dependancies will be uploaded to this repo in due course, but the widely used direct download links are stated below each.
 
+vm-builder-0.12.4+bzr494
+http://archive.ubuntu.com/ubuntu/pool/universe/v/vm-builder/vm-builder_0.12.4+bzr494.orig.tar.gz
 
 miniupnpc-1.9.20140401.tgz
 http://miniupnp.free.fr/files/download.php?file=miniupnpc-1.6.tar.gz
