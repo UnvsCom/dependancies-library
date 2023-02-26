@@ -47,10 +47,10 @@ https://src.fedoraproject.org/repo/pkgs/libpng/libpng-1.6.8.tar.gz/29b7065906e25
 boost_1_55_0.tar.bz2
 http://downloads.sourceforge.net/project/boost/boost/1.50.0/boost_1_50_0.tar.bz2
 
-
-Apologies, the following are too large to upload to Git:
---------------------------------------------------------
 qt-everywhere-opensource-src-4.8.5.tar.gz
 http://releases.qt-project.org/qt4/source/qt-everywhere-opensource-src-4.8.3.tar.gz
+
+GITIAN BUILDER FOR CROSS COMPILING.
+git clone https://github.com/UnvsCom/gitian-builder.git
 
 
