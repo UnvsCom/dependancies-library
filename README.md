@@ -50,30 +50,39 @@ http://www.openssl.org/source/openssl-1.0.1k.tar.gz
 https://www.zlib.net/fossils/zlib-1.2.8.tar.gz
 
 ✪ libpng-1.6.8.tar.gz
+
 https://src.fedoraproject.org/repo/pkgs/libpng/libpng-1.6.8.tar.gz/29b7065906e2551508a0d7eacd19174e/libpng-1.6.8.tar.gz
 
 ✪ boost_1_55_0.tar.bz2
+
 http://downloads.sourceforge.net/project/boost/boost/1.50.0/boost_1_50_0.tar.bz2
 
 ✪ qt-everywhere-opensource-src-4.8.5.tar.gz
+
 http://releases.qt-project.org/qt4/source/qt-everywhere-opensource-src-4.8.3.tar.gz
 
 ✪ GITIAN BUILDER FOR CROSS COMPILING (ORIGINAL ARCHIVED)
+
 https://github.com/devrandom/gitian-builder/
 
 ✪ GITIAN BUILDER FOR CROSS COMPILING (OUR RECENT UPDATED / MODIFIED VERSION).
+
 https://github.com/UnvsCom/gitian-builder.git
 
 ✪ ORACLE VIRTUAL BOX 7
+
 https://www.virtualbox.org/wiki/Downloads
 
 ✪ List of wallet prefixes:
+
 https://en.bitcoin.it/wiki/List_of_address_prefixes
 
 ✪ Bitvise SSH client - file transfers:
+
 https://www.bitvise.com/
 
 ✪ Debian 8 Operating System ISO:
+
 https://cdimage.debian.org/mirror/cdimage/archive/8.5.0-live/amd64/iso-hybrid/debian-live-8.5.0-amd64-standard.iso
 
 
