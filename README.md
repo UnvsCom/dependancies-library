@@ -15,7 +15,7 @@ Remember it's good practice to double check 'Checksums' are valid for each, to e
 DEPENDANCIES
 ------------
 
-* These dependancies will be uploaded to this repo in due course, but the widely used direct download links are stated below each.
+* These dependancies may be directly uploaded to this repo shortly, but the widely used direct download links are stated below each.
 
 ✪ vm-builder-0.12.4+bzr494
 
