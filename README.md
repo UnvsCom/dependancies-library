@@ -1,4 +1,4 @@
-# Dependancies Library / Archive.
+# Dependancies Library / Educational Resources.
 
 This is a collection of past dependencies, to be used as educational source material.
 
