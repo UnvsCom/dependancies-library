@@ -37,8 +37,10 @@ openssl-1.0.1k.tar.gz
 http://www.openssl.org/source/openssl-1.0.1k.tar.gz
 
 zlib-1.2.8.tar.gz
+https://www.zlib.net/fossils/zlib-1.2.8.tar.gz
 
 libpng-1.6.8.tar.gz
+https://src.fedoraproject.org/repo/pkgs/libpng/libpng-1.6.8.tar.gz/29b7065906e2551508a0d7eacd19174e/libpng-1.6.8.tar.gz
 
 boost_1_55_0.tar.bz2
 http://downloads.sourceforge.net/project/boost/boost/1.50.0/boost_1_50_0.tar.bz2
