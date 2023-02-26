@@ -53,6 +53,16 @@ http://releases.qt-project.org/qt4/source/qt-everywhere-opensource-src-4.8.3.tar
 GITIAN BUILDER FOR CROSS COMPILING.
 https://github.com/UnvsCom/gitian-builder.git
 
+ORACLE VIRTUAL BOX 7
+https://www.virtualbox.org/wiki/Downloads
+
+List of wallet prefixes:
+https://en.bitcoin.it/wiki/List_of_address_prefixes
+
+Bitvise SSH client:
+https://www.bitvise.com/
+
+
 
 Notes.
 ------
