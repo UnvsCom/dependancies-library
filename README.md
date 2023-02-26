@@ -51,6 +51,6 @@ qt-everywhere-opensource-src-4.8.5.tar.gz
 http://releases.qt-project.org/qt4/source/qt-everywhere-opensource-src-4.8.3.tar.gz
 
 GITIAN BUILDER FOR CROSS COMPILING.
-git clone https://github.com/UnvsCom/gitian-builder.git
+https://github.com/UnvsCom/gitian-builder.git
 
 
