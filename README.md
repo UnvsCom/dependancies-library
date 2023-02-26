@@ -10,6 +10,8 @@ Remember it's good practice to double check Checksums to ensure they are valid r
 
 Provided without warranty or guarantee. Use at your own risk.
 
+
+------------
 DEPENDANCIES
 ------------
 
@@ -34,7 +36,7 @@ boost_1_55_0.tar.bz2
 
 
 Apologies, The following used are currently too large to upload to Git:
-
+-----------------------------------------------------------------------
 qt-everywhere-opensource-src-4.8.5.tar.gz
 
 
